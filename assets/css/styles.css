@@ -1,0 +1,106 @@
+body{
+    background-color: lightseagreen;
+    font-family: 'Playfair Display', serif;
+    color :purple;
+}
+
+
+  .nav{
+      background-color: pink;
+      padding: 20px 10px 20px 10px;
+      text-align: center; 
+  }
+
+  h1{
+      background-color: hotpink;
+      text-align: center;
+  }
+
+  .center{
+      width: 40%;
+      height: 40%;
+      border-radius:50%;
+      border: 5px double purple;
+  }
+
+
+
+  footer{
+      background-color: bisque;
+      padding: 20px 10px 20px 10px;
+  }
+
+  h2{
+      text-align:left;
+        margin-left:auto;
+  }
+
+  
+  
+
+  ul
+  li{
+    font-size: 14px;
+    list-style-type: none;
+   padding: 5px;
+  }
+
+  div .flex-container{
+      border: 5px solid black;
+       justify-content: flex-end; 
+  }
+
+h4{
+    margin-left: auto;
+} 
+
+
+
+
+
+div .container-fluid{
+    background-color: bisque;
+    padding: 20px 10px 20px 10px;
+    margin: 300px;
+    
+}
+
+img{
+    border:5px solid purple;
+    border-radius: 8px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 20%;
+}
+
+iframe{
+    border: 3px solid purple;
+    border-radius: 8px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption{
+    text-align: center;
+    font-size: x-large;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
