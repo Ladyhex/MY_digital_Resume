@@ -65,14 +65,7 @@ div .container-fluid{
     
 }
 
-img{
-    border:5px solid purple;
-    border-radius: 8px;
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-    width: 20%;
-}
+
 
 iframe{
     border: 3px solid purple;
@@ -90,7 +83,24 @@ figcaption{
 }
 
 
+img{
+    border-radius: 8px;
+    border: 5px solid purple;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 
+h5.card-title{
+    font-size:x-large;
+    text-align: center;
+}
+
+a{
+    margin: 5%;
+    text-align:center;
+}
 
 
 
