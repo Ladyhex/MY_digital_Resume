@@ -1,18 +1,19 @@
 body{
-    background-color: black;
+    background-image: url(https://th.bing.com/th/id/OIP.XA05CZ4uoZQr8Y-AzGXO3gHaE8?w=268&h=180&c=7&r=0&o=5&dpr=1.15&pid=1.7);
     font-family: 'Playfair Display', serif;
-    color :gray;
+    color :white;
 }
 
 
-  .nav{
-      background-color: whitesmoke;
-      padding: 20px 10px 20px 10px;
-      text-align: justify; 
+  a{
+    display:block;
+    color:white;
+    text-align: center;
   }
+     
 
   h1{
-      background-color: beige;
+      background-color: black;
       text-align: center;
   }
 
@@ -20,13 +21,13 @@ body{
       width: 40%;
       height: 40%;
       border-radius:50%;
-      border: 5px double beige;
+      border: 5px double purple;
   }
 
 
 
   footer{
-      background-color: bisque;
+      background-color: pink;
       padding: 20px 10px 20px 10px;
   }
 
@@ -97,19 +98,11 @@ h5.card-title{
     text-align: center;
 }
 
-a{
-    margin: 15%;
-    text-align: center;
-    color: red;
- 
-    
 
-}
 
 
 p{
-    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fwcansCoM7HILX28p9yqxwHaE9%26pid%3DApi&f=1);
-    color:black;
+    color:whitesmoke;
 }
 
 
@@ -119,7 +112,11 @@ header{
 }
 
 
-
+label{
+   display: block;
+   margin-left: auto;
+   text-align:center
+}
 
 
 
